@@ -1,0 +1,3 @@
+# This file ensures the data directory is tracked in git
+# Railway will mount a volume at /data for persistent storage
+# The actual db.json file will be created by the application 

@@ -1,0 +1,8 @@
+{
+  "lobbies": {},
+  "settings": {
+    "maxRounds": 3,
+    "roundTime": 480,
+    "votingTime": 60
+  }
+}
